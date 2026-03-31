@@ -1,1 +1,1 @@
-## End to end demoProject
+## Inventory management system built by using C language.
